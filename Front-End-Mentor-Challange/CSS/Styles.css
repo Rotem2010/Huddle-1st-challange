@@ -1,0 +1,75 @@
+body {}
+
+.top-container {
+  background: url("images/bg-hero-desktop.svg");
+  width: 1440px;
+  height: 800px;
+}
+
+.logo {
+  position: absolute;
+  left: 5%; top: 20px;
+}
+
+.mockups {
+  height: 600px;
+position: absolute; right:100px;top:100px;}
+
+.butn-tif-top {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #0f0f0f;
+  font-size: 20px;
+  background: white;
+  padding: 8px 40px 8px 39px;
+  border: solid #E8E8E8 2px;
+  text-decoration: none;
+  width: 5%;
+  position: absolute;
+  right: 50px;
+  top: 20px;
+  margin:0;
+}
+
+.butn-tif-top:hover {
+  background: #822b82;
+  text-decoration: none;
+}
+
+
+.h1-top-container {
+  font-family: 'Poppins', sans-serif;
+position: absolute;top:200px; left: 100px; ;width: 35%;
+line-height: 2; font-size: 45px; font-weight: bold;
+word-spacing: length;}
+
+.p-top-container {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  position: absolute; top:400px; left: 100px; width:24%;
+  padding: 10px;
+}
+
+
+.butn-gsff-top {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: hsl(322, 100%, 66%);
+  padding: 12px 36px 10px 55px;
+  text-decoration: none;
+  width: 10%;
+  position:absolute; top: 500px; left: 100px;
+}
+
+.butn-gsff-top:hover {
+  background: #822b82;
+  text-decoration: none;
+}
+
+.middle-container {}
